@@ -19,17 +19,25 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-ഹ {}
+Hello { }
 
-എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് 
+My name is [𝐒𝐩𝐢𝐝𝐲](https://t.me/Spiderman_07bot)
 
-എന്നെപ്പോ
+I am an advanced group management bot by [༒🄰🄽🅂🄷🅄༒](https://t.me/mr_anshu_07) 🥰
 
-എന്റെ അപ്ഡേ
+I can manage your group very easily🧚‍♀ & safely🔒. You can keep trust on me without any doubt💯
 
-കൂടെ താഴെ കൊടുത്തിര
+ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ!
 
-ലഭ്യമായ കമാന്റുകളെപ്
+Try using me!⚡️
+
+/help Use For Get Command❤️
+
+Any Doubt🤔.. Contact My Developer😊✨
+
+Maintained by 
+
+@mr_anshu_07
 
 """
 
